@@ -3,7 +3,7 @@
     "path": "~/psy8960-week2/R/week2.R",
     "project_path": "R/week2.R",
     "type": "r_source",
-    "hash": "3483060339",
+    "hash": "2310740893",
     "contents": "",
     "dirty": false,
     "created": 1706396752835.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,0",
+        "cursorPosition": "11,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1706397212,
+    "lastKnownWriteTime": 1706399178,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1706397212562,
+    "last_content_update": 1706399178634,
     "read_only": false,
     "read_only_alternatives": []
 }
