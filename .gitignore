@@ -1,2 +1,5 @@
-#ignoring csv files
+.Rproj.user
+.Rhistory
+.Rdata
+.Ruserdata
 *.csv
